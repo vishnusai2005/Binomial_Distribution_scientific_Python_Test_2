@@ -33,4 +33,4 @@ The notebook contains 10 solved scenarios, showcasing how binomial distribution 
 1. Clone this repository to your local machine.
 2. Ensure you have Jupyter Notebook or JupyterLab installed.
 3. Install the required dependencies: `pip install numpy scipy`
-4. Run the notebook: `jupyter notebook Copy_of_Binomial_Distribution_Assignment.ipynb`
+4. Run the notebook: `jupyter notebook Copy_of_Binomial_Distribution.ipynb`
