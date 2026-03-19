@@ -1,4 +1,3 @@
-# Binomial_Distribution_scientific_Python_Test_2
 # Binomial Distribution & Probability Analysis in Python
 
 ## 📌 Overview
